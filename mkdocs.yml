@@ -1,0 +1,4 @@
+site_name: IIT Docs
+theme:
+    name: material
+    custom_dir: overrides
